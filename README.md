@@ -12,7 +12,7 @@ Este projeto é um conversor de moedas simples que permite calcular o valor em R
 <li>JavaScript: Para a lógica de conversão e manipulação de elementos DOM.
 
 ## 📝 Funcionalidades
-<li>Conversão de valores de Dólar (USD) para Real (BRL).
+<li>Conversão de valores de Dólar (US$) para Real (BRL).
 <li>Interface simples e intuitiva para inserir valores.
 <li>Exibição do resultado da conversão na tela.
 

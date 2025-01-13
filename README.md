@@ -4,7 +4,7 @@
 </h1>
 
 ## 🚀 Sobre o Projeto
-Este projeto é um conversor de moedas simples que permite calcular o valor em Reais (BRL) a partir de um valor em Dólares (USD). Foi desenvolvido durante o curso "Aprenda Javascript em 1 vídeo (+ projeto prático)" do Bonieky Lacerda no YouTube, com o objetivo de aprender e praticar os fundamentos do JavaScript.
+Este projeto é um conversor de moedas simples que permite calcular o valor em Reais (BRL) a partir de um valor em Dólares (US$). Foi desenvolvido durante o curso "Aprenda Javascript em 1 vídeo (+ projeto prático)" do Bonieky Lacerda no YouTube, com o objetivo de aprender e praticar os fundamentos do JavaScript.
 
 ## 🛠️ Tecnologias Utilizadas
 <li>HTML5: Para a estrutura da página.
